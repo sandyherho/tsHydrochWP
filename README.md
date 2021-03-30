@@ -3,7 +3,7 @@ This GitHub repository contains codes used for **Long-term hydrometeorological t
 
 ### License
 
-Our code is released under the [GPL-3.0 License]((../blob/master/LICENSE)).
+Our code is released under the [GPL-3.0 License]((../blob/main/LICENSE)).
 
 ### Cite
 

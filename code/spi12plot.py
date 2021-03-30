@@ -24,4 +24,4 @@ plt.ylabel('Standardized Precipitation Index - 12');
 ax.set_xlim(0, spi.shape[0]);
 ax.set_xticklabels(['1980', '1988', '1996', '2005', '2013']);
 
-plt.savefig('../data/fig4.eps', format = 'eps');
+plt.savefig('../figs/fig4.eps', format = 'eps');

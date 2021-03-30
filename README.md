@@ -1,13 +1,13 @@
 # Long-term hydrometeorological time-series analysis over the central highlands of West Papua
-This GitHub repository contains codes used for **Long-term hydrometeorological time-series analysis over the central highlands of West Papua** created by [Sandy H. S. Herho](https://www.geol.umd.edu/sandyherho) at [Paleoclimate CoLaboratory](https://www.geol.umd.edu/facilities/sil/), University of Maryland College Park.
+This GitHub repository contains code used for **Long-term hydrometeorological time-series analysis over the central highlands of West Papua** created by [Sandy H. S. Herho](https://www.geol.umd.edu/sandyherho) at [Paleoclimate CoLaboratory](https://www.geol.umd.edu/facilities/sil/), University of Maryland College Park.
 
 ### License
 
-Our code is released under the [GPL-3.0 License]((../blob/main/LICENSE)).
+Our code is released under the [GPL-3.0 License](https://github.com/sandyherho/tsHydrochWP/blob/main/LICENSE).
 
 ### Cite
 
-If you find this code useful in your study, please, consider citing our paper:
+If you find this code useful in your study, please, consider citing my paper:
 
 `
 @article{herho21,
@@ -19,7 +19,7 @@ If you find this code useful in your study, please, consider citing our paper:
 `
 ### Requirements
 
-We run the code under the following computational environments:
+I run the code under the following computational environments:
 
 1. [MATLAB R2020a](https://www.mathworks.com/products/matlab.html) (Professional License)
 * [the cross wavelet and wavelet coherence toolbox](https://sites.google.com/a/glaciology.net/grinsted/wavelet-coherence)

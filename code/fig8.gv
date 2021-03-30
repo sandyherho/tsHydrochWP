@@ -1,0 +1,8 @@
+digraph NARX {
+ Inputs -> DelayUnits;
+ Inputs -> HiddenUnits;
+ DelayUnits -> HiddenUnits;
+ HiddenUnits -> Output;
+ Output -> DelayUnits;
+ Output -> Prediction;
+}

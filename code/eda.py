@@ -42,4 +42,4 @@ plt.figure(figsize=(15,6));
 plt.plot(date, pr_scaled);
 plt.xlabel('time (month)');
 plt.ylabel('Normalized precipitation');
-plt.savefig('../figs/fig1.eps', format = 'eps')
+plt.savefig('../figs/fig2.eps', format = 'eps')

@@ -14,8 +14,7 @@ If you find this code useful in your study, please, consider citing my paper:
          author  = {S. H. S. Herho},
          title   = {Long-term hydrometeorological time-series analysis over the central highlands of West Papua},
          journal = {xxxxxx},
-         year    = {2021}
-       }
+         year    = {2021}}
 `
 ### Requirements
 
@@ -36,6 +35,7 @@ I run the code under the following computational environments:
 * [numpy v1.16.6](https://numpy.org/)
 * [pandas v0.24.2](https://pandas.pydata.org/)
 * [pycwt v0.3.0a22](https://pycwt.readthedocs.io/)
+* [pygmt v0.2.1](https://www.pygmt.org/)
 * [sckit-learn v0.24.1](https://scikit-learn.org/)
 * [seaborn v0.11.0](https://seaborn.pydata.org/)
 * [xarray v0.16.2](http://xarray.pydata.org/)
@@ -44,3 +44,7 @@ I run the code under the following computational environments:
 * [SPEI v1.7](https://cran.r-project.org/web/packages/SPEI/index.html)
 * [tidyverse v1.1.3](https://www.tidyverse.org/)
 * [TSstudio v0.1.6](https://ramikrispin.github.io/TSstudio/)
+
+The data used for this study can be obtained from:
+* [ERA5 monthly averaged data on single levels from 1979 to present](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=overview)
+* [Multivariate ENSO Index Version 2](https://psl.noaa.gov/enso/mei/)

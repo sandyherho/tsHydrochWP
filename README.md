@@ -9,7 +9,7 @@ This GitHub repository contains code used for **Long-term hydrometeorological ti
 
 ### License
 
-Our code is released under the [GPL-3.0 License](https://github.com/sandyherho/tsHydrochWP/blob/main/LICENSE).
+This code is released under the [GPL-3.0 License](https://github.com/sandyherho/tsHydrochWP/blob/main/LICENSE).
 
 ### Cite
 

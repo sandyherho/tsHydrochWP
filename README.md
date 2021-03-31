@@ -3,7 +3,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/sandyherho/tsHydrochWP)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 This GitHub repository contains code used for **Long-term hydrometeorological time-series analysis over the central highlands of West Papua** created by [Sandy H. S. Herho](https://www.geol.umd.edu/sandyherho) at [Paleoclimate CoLaboratory](https://www.geol.umd.edu/facilities/sil/), University of Maryland College Park.
 

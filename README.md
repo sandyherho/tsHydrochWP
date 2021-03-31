@@ -2,7 +2,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 This GitHub repository contains code used for **Long-term hydrometeorological time-series analysis over the central highlands of West Papua** created by [Sandy H. S. Herho](https://www.geol.umd.edu/sandyherho) at [Paleoclimate CoLaboratory](https://www.geol.umd.edu/facilities/sil/), University of Maryland College Park.

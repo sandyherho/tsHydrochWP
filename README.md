@@ -34,7 +34,7 @@ I run the code under the following computational environments:
 * [numpy v1.16.6](https://numpy.org/)
 * [pandas v0.24.2](https://pandas.pydata.org/)
 * [pyneurgen v0.3.1](https://jacksonpradolima.github.io/PyNeurGen/)
-* [sckit-learn v0.0](https://scikit-learn.org/)
+* [scikit-learn v0.0](https://scikit-learn.org/)
 
 3. [Python 3.8.5](https://www.python.org/)
 * [matplotlib v2.2.5](https://matplotlib.org/)
@@ -42,7 +42,7 @@ I run the code under the following computational environments:
 * [pandas v0.24.2](https://pandas.pydata.org/)
 * [pycwt v0.3.0a22](https://pycwt.readthedocs.io/)
 * [pygmt v0.2.1](https://www.pygmt.org/)
-* [sckit-learn v0.24.1](https://scikit-learn.org/)
+* [scikit-learn v0.24.1](https://scikit-learn.org/)
 * [seaborn v0.11.0](https://seaborn.pydata.org/)
 * [xarray v0.16.2](http://xarray.pydata.org/)
 
